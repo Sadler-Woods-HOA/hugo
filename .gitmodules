@@ -1,0 +1,3 @@
+[submodule "sadlerwoodshoa-org/themes/hugo-clarity"]
+	path = sadlerwoodshoa-org/themes/hugo-clarity
+	url = https://github.com/chipzoller/hugo-clarity
